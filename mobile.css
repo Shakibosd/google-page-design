@@ -1,0 +1,5 @@
+
+/* for mobile  */
+[class*="col-"] {
+  width: 100%;
+}
